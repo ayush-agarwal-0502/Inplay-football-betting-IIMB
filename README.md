@@ -1,6 +1,16 @@
+
+
 # IN-PLAY-BETTING
 
 This project is about predicting the outcome of football matches. The outcomes are categorized into three classes: Home team wins, Away team wins, and Draw. The project is divided into several notebooks, each serving a specific purpose.
+
+* __Teammates :__ Ayush Agarwal (IIT BHU ECE'24) , Aakash Sharma (IIT BHU EP), Anuj (IIT BHU Civil)
+* __Entry For :__ IIMB (Indian Institute of Management, Bangalore) , Vista (Business Fest)
+* __Tools Used :__ Excel, Power BI, Python Libraries
+* __Problem Tackled :__ In-Play Betting in Football Matches using Data Analytics
+* __Domain Knowledge Used :__ Data Analytics, Machine Learning (Classification) 
+
+![image](https://github.com/ayush-agarwal-0502/Inplay-football-betting-IIMB/assets/86561124/18b250d9-2d79-4756-807f-ed11f5389559)
 
 ## EDA_n_training.ipynb
 
